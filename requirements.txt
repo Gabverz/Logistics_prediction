@@ -1,0 +1,9 @@
+pandas
+numpy
+kaggle
+pyarrow
+fastparquet
+scikit-learn
+spacy
+transformers
+torch
