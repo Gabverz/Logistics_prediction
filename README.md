@@ -191,6 +191,3 @@ I'm a data professional with strong proficiency in Python, SQL, machine learning
 
 ---
 
-<div align="center">
-<sub>Built with rigor. Documented with care. Shipped with confidence.</sub>
-</div>
